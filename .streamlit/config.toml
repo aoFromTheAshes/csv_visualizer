@@ -1,0 +1,10 @@
+[theme]
+primaryColor = "#A07855"  # теплий коричневий (акцентні кнопки/посилання)
+backgroundColor = "#F6EDE5"  # ваш кремово-бежевий фон
+secondaryBackgroundColor = "#E8D9C5"  # світлі картки (контраст до фону)
+textColor = "#3A3A3A"  # темно-сірий текст для читабельності
+font = "monospace"  
+
+[sidebar]
+backgroundColor = "#D4B483"  # бежево-золотий (відокремлює від основного фону)
+textColor = "#3A3A3A"  # той самий, що й основний текст
